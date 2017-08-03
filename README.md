@@ -7,6 +7,7 @@ What is GRID?
         > Can work with GRID Layout by applying CSS rules both to a parent element (which becomes the GRID Container) and to that         elements children (which becomes GRID System)
 
 GRID MODEL CONCEPT (IMPORTANT TERMINOLOGY)
+
     * GRID Container
     * GRID Item
     * GRID Line
@@ -15,6 +16,7 @@ GRID MODEL CONCEPT (IMPORTANT TERMINOLOGY)
     * GRID Area
 
 GRID PROPERTIES
+
     * Properties for the GRID Container/Parent
         > display
         > grid-template-columns
